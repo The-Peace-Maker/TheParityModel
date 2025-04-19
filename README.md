@@ -1,53 +1,19 @@
 # The Parity Model
 
-### *A New Constitutional Vision for Ireland — Through Parity, Not Victory*
+### *A New Constitutional Vision – Through Parity, Not Victory*
 
-This repository presents **The Parity Model**, a structured proposal for a peaceful and inclusive future for Ireland. The model unfolds in **two key phases**, combining constitutional reform with national symbolism to represent a shared future grounded in mutual respect.
+**The Parity Model** is a strategic framework for divided or post-conflict societies seeking peaceful constitutional transition. Instead of prioritizing majority rule or territorial unification, it offers a **shared governance model grounded in mutual respect, cultural balance, and equal legitimacy**.
 
----
+Designed to address deep-rooted divisions—such as those between national identities, religious communities, or historical rivals—the Parity Model builds lasting political stability through:
 
-## Phase One — *The Parity Model*
+- **Parity of Esteem**: Equal respect for all traditions, identities, and affiliations.  
+- **Shared Sovereignty**: Authority is distributed, not concentrated—avoiding the dominance of any one group.  
+- **Constitutional Neutrality**: Structures are built around inclusion, not conquest.  
+- **Structured Reconciliation**: Recognizing difference while fostering cooperation.  
+- **Symbolic Reform**: A new national identity is co-created, not imposed.
 
-This phase outlines a new constitutional framework for Ireland, rooted in **Parity of Esteem**, peaceful transition, and long-term governance stability.
+Originally developed for Ireland, the Parity Model is applicable to global contexts—offering a peaceful alternative to binary referenda, majority takeovers, or indefinite deadlock.
 
-### Contents:
-- **Introduction**  
-  A strategic overview and guidance for policymakers and stakeholders.
-  
-- **The New Constitutional System**  
-  A detailed structure designed to ensure balance, stability, and mutual recognition between communities.
-
-- **The White Paper**  
-  A 16-pillar policy framework titled:  
-  *"Evolving the Good Friday Agreement"*  
-  It includes safeguards for identity, culture, economics, and political representation.
-
-- **Strategic Defence of The Parity Model**  
-  A response to potential criticism, reinforcing why this model is the most realistic and structured pathway forward.
+It does **not** erase national identities. It protects them—while forging a constitutional space where no side wins, and no side loses.
 
 ---
-
-## Phase Two — *The New Flag for a Shared Ireland*
-
-This phase introduces a national flag design that symbolically reinforces the constitutional vision of Phase One.
-
-### Contents:
-- **Page One – Creating a New Flag: A Symbol of Belonging for a Shared Ireland**  
-  Historical references set the context for a new visual identity.
-
-- **Page Two – Structure, Meaning, and Constitutional Parity**  
-  Frames the symbolism in terms of identity, reconciliation, and shared belonging.
-
-- **Flag Design Defence Sheet**  
-  Explains how each element supports the ethos of parity and balance.
-
----
-
-## Purpose
-
-This project is designed to assist policymakers, academics, and civic leaders in envisioning a **shared Ireland** that is structured, neutral, and inclusive — not dominated by either tradition. It reaffirms and evolves the **Good Friday Agreement** without abandoning any community's identity.
-
----
-
-**Contact:**  
-To maintain neutrality and avoid political interference, the author of this proposal remains anonymous. For academic or institutional inquiries, please open an issue in this repository.
