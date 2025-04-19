@@ -33,18 +33,13 @@ This phase introduces a national flag design that symbolically reinforces the co
 
 ### Contents:
 - **Page One – Creating a New Flag: A Symbol of Belonging for a Shared Ireland**  
-  Historical references (e.g., the Union Flag, Irish Tricolour, Green Harp Flag, St. Patrick’s Saltire) build toward a new visual identity.
+  Historical references set the context for a new visual identity.
 
 - **Page Two – Structure, Meaning, and Constitutional Parity**  
-  Explains the symbolism behind the flag through the lens of loyalty, friendship, parity, and national reconciliation.
+  Frames the symbolism in terms of identity, reconciliation, and shared belonging.
 
 - **Flag Design Defence Sheet**  
-  A breakdown of each design element:  
-  - The White X (Saltire) as a symbol of Peace & Parity  
-  - The Crown of Meath and High Kingship  
-  - Four Provinces as Clasped Hands (friendship over ideology)  
-  - Green Harp subtly embedded behind all elements  
-  - Motto: *"No victory for either side – John Hume"*
+  Explains how each element supports the ethos of parity and balance.
 
 ---
 
